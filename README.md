@@ -43,7 +43,7 @@ client를 처음 킨 화면일 때 category에서 바다, 산, 온천 선택하�
  서버를 실행시켰을 때 화면입니다. '서버 구동'을 클릭하면 서버가 작동됩니다.</br> 
  아래 사진은 서버 구동중일 때 클라이언트와 연결하는 콘솔창입니다. 멀티쓰레드를 이용하여 다수의 클라이언트를 수용할 수 있습니다.
  <div>
-<img width = "300" src = "https://github.com/yeon-kyu/DataBase-Project-with-MySQL/blob/master/images/server_run2.jpg">
+<img width = "250" src = "https://github.com/yeon-kyu/DataBase-Project-with-MySQL/blob/master/images/server_run2.jpg">
  </div>
  </br></br>
  
