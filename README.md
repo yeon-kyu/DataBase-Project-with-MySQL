@@ -47,14 +47,16 @@ client를 처음 킨 화면일 때 category에서 바다, 산, 온천 선택하�
  </div>
  </br></br>
  
- DB 업데이트하는 과정입니다. 정해진 형식으로 txt파일을 만들어 update.txt에 옮기면 해당 내용이 DB에 저장되어 추가됩니다.
+ <DB 업데이트 과정>
    <div>
 <img width = "400" src = "https://github.com/yeon-kyu/DataBase-Project-with-MySQL/blob/master/images/server_update.jpg">
  </div>
+ DB 업데이트하는 과정입니다. 정해진 형식으로 txt파일을 만들어 update.txt에 옮기면 해당 내용이 DB에 저장되어 추가됩니다.
  </br></br>
  
- 발생 가능한 케이스에 대한 예외 처리입니다.
+ <예외처리>
  <div>
 <img width = "600" src = "https://github.com/yeon-kyu/DataBase-Project-with-MySQL/blob/master/images/exception_handle.JPG">
  </div>
+ 발생 가능한 케이스에 대한 예외 처리입니다.
 </br></br>
