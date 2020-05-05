@@ -15,13 +15,13 @@ with MySQL and java
 
 <client를 처음 켰을 때 화면>
 <div>
-<img width = "600" src = "https://github.com/yeon-kyu/DataBase-Project-with-MySQL/blob/master/images/runtime3.jpg">
+<img width = "400" src = "https://github.com/yeon-kyu/DataBase-Project-with-MySQL/blob/master/images/runtime3.jpg">
  </div>
 </br></br>
 
 <사용방법-1>
  <div>
-<img width = "600" src = "https://github.com/yeon-kyu/DataBase-Project-with-MySQL/blob/master/images/runtime4.jpg">
+<img width = "400" src = "https://github.com/yeon-kyu/DataBase-Project-with-MySQL/blob/master/images/runtime4.jpg">
  </div>
 client를 처음 킨 화면일 때 category에서 바다, 산, 온천 선택하고 zone 에서 전국을 선택한 후, search 버튼을 클릭했을 때 화면입니다.</br>
 여행지는 #속초시, #석모도 2개가 검색되었는데 어느 하나를 클릭하면(예를 들면 #석모도 클릭하면) 다음 사진과 같이 </br>
@@ -42,7 +42,9 @@ client를 처음 킨 화면일 때 category에서 바다, 산, 온천 선택하�
  </div>
  서버를 실행시켰을 때 화면입니다. '서버 구동'을 클릭하면 서버가 작동됩니다.</br> 
  아래 사진은 서버 구동중일 때 클라이언트와 연결하는 콘솔창입니다.
- 
+ <div>
+<img width = "300" src = "https://github.com/yeon-kyu/DataBase-Project-with-MySQL/blob/master/images/server_run2.jpg">
+ </div>
  </br></br>
  
  DB 업데이트하는 과정입니다. 정해진 형식으로 txt파일을 만들어 update.txt에 옮기면 해당 내용이 DB에 저장되어 추가됩니다.
