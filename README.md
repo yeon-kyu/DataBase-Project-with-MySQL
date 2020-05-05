@@ -24,7 +24,7 @@ with MySQL and java
 <img width = "400" src = "https://github.com/yeon-kyu/DataBase-Project-with-MySQL/blob/master/images/runtime4.jpg">
  </div>
 client를 처음 킨 화면일 때 category에서 바다, 산, 온천 선택하고 zone 에서 전국을 선택한 후, search 버튼을 클릭했을 때 화면입니다.</br>
-여행지는 #속초시, #석모도 2개가 검색되었는데 어느 하나를 클릭하면(예를 들면 #석모도 클릭하면) 다음 사진과 같이 </br>
+여행지는 #속초시, #석모도 2개가 검색되었는데 어느 하나를 클릭하면(예를 들면 #석모도 클릭하면)  사진과 같이 </br>
 주변의 기본적인 restaurant과 hotel 정보 & 선택한 category(바다, 산, 온천) 정보가 출력됩니다.
  </br></br>
  
