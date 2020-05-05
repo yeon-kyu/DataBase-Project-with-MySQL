@@ -11,6 +11,7 @@ with MySQL and java
  <div>
 <img width = "600" src = "https://github.com/yeon-kyu/DataBase-Project-with-MySQL/blob/master/images/tables_example.JPG">
  </div>
+ MySQL에서의 화면을 캡쳐한 입니다.
 </br></br>
 
 <client를 처음 켰을 때 화면>
